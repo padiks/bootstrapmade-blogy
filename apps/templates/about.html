@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+
+<h1>About This Project</h1>
+
+<p class="lead">
+	This simple Flask web app serves as a tutorial library. Each section contains lessons and examples for learning Python and web development.
+</p>
+	
+<p>
+	Built with <strong>Flask</strong>, <strong>Bootstrap</strong>, and <strong>Waitress</strong> for lightweight local serving.
+</p>
+
+<a href="{{ url_for('home') }}" class="btn btn-secondary mt-3">&larr; Back to Home</a>
+
+{% endblock %}
