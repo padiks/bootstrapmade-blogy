@@ -1,0 +1,51 @@
+:root {
+  --default-font: "Spectral", Arial, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --heading-font: "IM Fell English", Arial,  sans-serif;
+  --nav-font: "Spectral", Arial, sans-serif;
+}
+
+h5 {
+	font-family: var(--default-font);  /* Use the defined font variable */
+  color: #777;  /* Lighter gray text color */
+  padding: 0.25rem 0.5rem;  /* Padding around the text */
+  border-radius: 4px;  /* Rounded corners */
+  font-size: 0.85rem;  /* Slightly increased font size */
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);  /* Text shadow effect */
+}
+
+/* Rainbow gray text for icon */
+.rainbow-icon {
+  background: linear-gradient(45deg, #555, #777, #999, #bbb, #ddd, #eee);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 1px 1px rgba(0,0,0,0.1); /* subtle shadow for depth */
+}
+
+/* Icon box with soft gray/light gradient and soft shadow */
+.icon-box {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0.5rem;
+  border: 1px solid #ccc;
+  margin-right: 10px;
+  background: linear-gradient(135deg, #f7f7f7 0%, #e8e8e8 50%, #ffffff 100%);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); /* reduced shadow */
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+/* Hover effect to make it pop slightly */
+.icon-box:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* subtle hover shadow */
+}
+
+/* Post item shadow */
+.post-item {
+  padding: 10px;
+  border-radius: 0.5rem;
+  background: #fafafa;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.03); /* very soft shadow */
+}
