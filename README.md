@@ -22,11 +22,10 @@ Blogy is a clean and modern blog template designed for personal blogs, professio
 
 ## License
 
-Thanks for downloading this template!
-
 * **Template Name**: Blogy
 * **Template URL**: [https://bootstrapmade.com/blogy-bootstrap-blog-template/](https://bootstrapmade.com/blogy-bootstrap-blog-template/)
 * **Author**: BootstrapMade.com
 * **License**: [https://bootstrapmade.com/license/](https://bootstrapmade.com/license/)
 
 For more information about licensing and usage, please visit the [Blogy - Bootstrap Blog Template](https://bootstrapmade.com/blogy-bootstrap-blog-template/) page.
+
