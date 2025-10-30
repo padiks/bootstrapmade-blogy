@@ -1,14 +1,14 @@
-# Blogy - Bootstrapmade
+# Blogy - BootstrapMade
 
-This repository contains a customized version of the [Blogy - Bootstrap Blog Template](https://bootstrapmade.com/blogy-bootstrap-blog-template/) from [Bootstrapmade](https://bootstrapmade.com/), with minor updates and customizations made by me.
+This repository contains a customized version of the [Blogy - Bootstrap Blog Template](https://bootstrapmade.com/blogy-bootstrap-blog-template/) from [BootstrapMade](https://bootstrapmade.com/), with minor updates and customizations made by me.
 
 ## Description
 
-Blogy is a clean and modern blog template designed for personal blogs, professional portfolios, or corporate websites. The version included here is based on the **Blogy** template by Bootstrapmade, with updates and enhancements tailored to my specific needs.
+Blogy is a clean and modern blog template designed for personal blogs, professional portfolios, or corporate websites. The version included here is based on the **Blogy** template by BootstrapMade, with updates and enhancements tailored to my specific needs.
 
 ## Original Author
 
-* **Bootstrapmade**
+* **BootstrapMade**
   [Website](https://bootstrapmade.com/)
   [GitHub Repository](https://github.com/BootstrapMade)
 
@@ -28,4 +28,5 @@ Blogy is a clean and modern blog template designed for personal blogs, professio
 * **License**: [https://bootstrapmade.com/license/](https://bootstrapmade.com/license/)
 
 For more information about licensing and usage, please visit the [Blogy - Bootstrap Blog Template](https://bootstrapmade.com/blogy-bootstrap-blog-template/) page.
+
 
